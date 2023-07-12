@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">buttonColor</string>
+    <string name="button1_label" />
+    <string name="button2_label" />
+</resources>
